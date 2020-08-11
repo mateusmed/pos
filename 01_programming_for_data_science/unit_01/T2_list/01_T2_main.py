@@ -93,9 +93,13 @@ def methods_of_list():
 def functions_to_apply_in_list():
     # 5 - funções aplicaveis a uma lista
     # len
+    len_example()
     # max
+    max_example()
     # min
+    min_example()
     # sum
+    sum_example()
 
 
 def append_example():
@@ -238,7 +242,7 @@ def max_example():
     print(max_of_list)
 
 
-def max_example():
+def min_example():
     lista_letras = ["Q", "W", "E", "R", "T", "Y", "A", "S", "D"]
 
     min_of_list = min(lista_letras)
@@ -251,8 +255,10 @@ def sum_example():
     sum_of_list = sum(lista)
     print(sum_of_list)
 
-def video2():
 
+def video2():
+    methods_of_list()
+    functions_to_apply_in_list()
 
 
 
