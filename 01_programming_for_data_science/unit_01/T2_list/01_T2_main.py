@@ -215,6 +215,7 @@ def reverse_example():
     lista.sort(reverse=True)
     print(lista)
 
+
 def sort_example():
 
     lista = [6, 3, 1, 4, 2, 5]
