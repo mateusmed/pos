@@ -27,9 +27,9 @@ def video3():
     total_compra = qtde * preco_produto
     print(total_compra)
 
+
 # video 4
 # conversão de tipos, casting
-
 def video4():
     # exemplos:
     int_string = str(5)

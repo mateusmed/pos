@@ -8,7 +8,7 @@ def create_dictionary():
     dict_vazio1 = {}
     dict_vazio2 = dict()
 
-    type(dict_vazio1)
+    print(type(dict_vazio1))
 
     isinstance(dict_vazio2, dict)
 
