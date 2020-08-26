@@ -80,6 +80,9 @@ def modify_value_of_dictionary():
     dic_notas_alunos["Maria"] = [25, 20, 22]
     print(dic_notas_alunos)
 
+    #error
+    # print("-->", dic_notas_alunos[1][2])
+
     dic_notas_alunos2 = {
         "João": {"nota1": 30,
                  "nota2": 12,

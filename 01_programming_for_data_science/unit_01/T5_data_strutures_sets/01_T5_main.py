@@ -53,12 +53,6 @@ def modify_elements_of_set():
     print(conj1)
 
 
-def remove_element_example():
-    conj1 = {1, 2, 3, 4, 5}
-    conj1.remove(3)
-    print(conj1)
-
-
 def add_element_example():
     conj1 = {1, 2, 3, 4, 5}
     conj1.add(6)
@@ -119,42 +113,87 @@ def issubset_example():
     print(s3.issubset(s4))
 
 
+def issuperset_example():
+    s1 = {1, 2, 3, 4, 5}
+    s2 = {4, 5, 6, 7}
+
+    # verificando se s1 possui tudo que tem em s2
+    print(s1.issuperset(s2))
+
+    s3 = {1, 2, 3, 4, 5}
+    s4 = {1, 2, 3, 4, 6, 5, 7, 8}
+
+    # verificando se s4 possui tudo que tem em s3
+    print(s4.issuperset(s3))
+
+
+def remove_element_example():
+    conj1 = {1, 2, 3, 4, 5}
+    conj1.remove(3)
+    print(conj1)
+
+
+def discart_element_example():
+    conj1 = {1, 2, 3, 4, 5}
+    conj1.discard(3)
+    print(conj1)
+
+
+def remove_discart_example():
+    remove_element_example()
+    discart_element_example()
+
+
+def symmetric_difference_example():
+    s1 = {1, 2, 3, 4, 5}
+    s2 = {4, 5, 6, 7}
+
+    # cria um novo conjunto removendo os itens em comum
+    s5 = s1.symmetric_difference(s2)
+    print(s5)
+
+
+def union_example():
+    s1 = {1, 2, 3, 4, 5}
+    s2 = {4, 5, 6, 7}
+
+    s6 = s1.union(s2)
+    print(s6)
+
+
 def main_methods_of_sets():
     # add
     add_element_example()
     # clear
+    clear_element_example()
     # copy
-    # copy
+    copy_element_example()
     # difference
+    difference_example()
     # intersection
+    intersection_example()
     # isdisjoint
+    isdisjoint_example()
     # issubset
+    issubset_example()
     # issuperset
+    issuperset_example()
     # remove || discart
-    remove_element_example()
+    remove_discart_example()
     # symmetric_difference
+    symmetric_difference_example()
     # union
+    union_example()
 
 
-def classSets():
-    print("nothing")
+def class_sets():
     # criando conjuntos
+    create_sets()
     # acessando elementos de um conjunto
+    access_elements_of_sets()
     # modificando elementos de um conjunto
-
-
+    modify_elements_of_set()
     # principais metodos de um objeto conjunto
-    # add
-    # clear
-    # copy
-    # copy
-    # difference
-    # intersection
-    # isdisjoint
-    # issubset
-    # issuperset
-    # remove || discart
-    # symmetric_difference
-    # union
+    main_methods_of_sets()
 
 
