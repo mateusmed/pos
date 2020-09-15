@@ -1,82 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="e7191de4-4c94-4ac5-a2c6-0462bdee1864" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/01_programming_for_data_science/unit_02/T1_data_types_and_variables/data_types_and_variables.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_programming_for_data_science/unit_02/T1_data_types_and_variables/operators.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_programming_for_data_science/unit_02/T2_strings/strings.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_programming_for_data_science/unit_01/T4_data_structures_dictionaries/01_T4_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_programming_for_data_science/unit_01/T4_data_structures_dictionaries/01_T4_main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_programming_for_data_science/unit_01/T5_data_strutures_sets/01_T5_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_programming_for_data_science/unit_01/T5_data_strutures_sets/01_T5_main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_programming_for_data_science/unit_02/T1_data_types_and_variables/file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/01_programming_for_data_science/unit_02/T1_data_types_and_variables/02_T1_main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_programming_for_data_science/unit_02/T2_strings/file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/01_programming_for_data_science/unit_02/T2_strings/02_T2_main.py" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.59015346">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/01_programming_for_data_science/unit_01/T1_python_basics/01_T1_main.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="810">
-                  <caret line="54" column="37" selection-start-line="54" selection-start-column="37" selection-end-line="54" selection-end-column="37" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/01_programming_for_data_science/unit_01/T3_tuples/01_T3_main.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1395">
-                  <caret line="93" column="18" selection-start-line="93" selection-start-column="18" selection-end-line="93" selection-end-column="18" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/01_programming_for_data_science/unit_01/T4_data_structures_dictionaries/01_T4_main.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="242">
-                  <caret line="84" lean-forward="true" selection-start-line="84" selection-end-line="84" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/01_programming_for_data_science/unit_01/T5_data_strutures_sets/01_T5_main.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="330">
-                  <caret line="160" column="13" lean-forward="true" selection-start-line="160" selection-start-column="13" selection-end-line="160" selection-end-column="13" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/01_programming_for_data_science/unit_01/T4_data_structures_dictionaries/dict.ipynb">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="405">
-                  <caret line="27" column="23" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/01_programming_for_data_science/unit_01/T2_list/01_T2_main.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="285">
-                  <caret line="97" column="17" lean-forward="true" selection-start-line="97" selection-start-column="17" selection-end-line="97" selection-end-column="17" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -95,123 +49,30 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/01_programming_for_data_science/unit_01/T2_list/01_T2_main.py" />
-        <option value="$PROJECT_DIR$/01_programming_for_data_science/unit_01/T3_tuples/01_T3_main.py" />
-        <option value="$PROJECT_DIR$/01_programming_for_data_science/unit_01/T4_data_structures_dictionaries/01_T4.py" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/01_programming_for_data_science/unit_01/T1_python_basics/01_T1_main.py" />
-        <option value="$PROJECT_DIR$/01_programming_for_data_science/unit_01/T3_tuples/tuples.ipynb" />
-        <option value="$PROJECT_DIR$/01_programming_for_data_science/unit_01/T5_data_strutures_sets/01_T5_main.py" />
-        <option value="$PROJECT_DIR$/01_programming_for_data_science/unit_01/T4_data_structures_dictionaries/01_T4_main.py" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="y" value="-1" />
-    <option name="width" value="1920" />
-    <option name="height" value="1080" />
-  </component>
+  <component name="ProjectId" id="1hY6JnUCERIUzeeXyQSQEHh2WAo" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="pos" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pos" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pos" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pos" type="462c0819:PsiDirectoryNode" />
-              <item name="01_programming_for_data_science" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pos" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pos" type="462c0819:PsiDirectoryNode" />
-              <item name="01_programming_for_data_science" type="462c0819:PsiDirectoryNode" />
-              <item name="unit_01" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pos" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pos" type="462c0819:PsiDirectoryNode" />
-              <item name="01_programming_for_data_science" type="462c0819:PsiDirectoryNode" />
-              <item name="unit_01" type="462c0819:PsiDirectoryNode" />
-              <item name="T1_python_basics" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pos" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pos" type="462c0819:PsiDirectoryNode" />
-              <item name="01_programming_for_data_science" type="462c0819:PsiDirectoryNode" />
-              <item name="unit_01" type="462c0819:PsiDirectoryNode" />
-              <item name="T2_list" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pos" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pos" type="462c0819:PsiDirectoryNode" />
-              <item name="01_programming_for_data_science" type="462c0819:PsiDirectoryNode" />
-              <item name="unit_01" type="462c0819:PsiDirectoryNode" />
-              <item name="T3_tuples" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pos" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pos" type="462c0819:PsiDirectoryNode" />
-              <item name="01_programming_for_data_science" type="462c0819:PsiDirectoryNode" />
-              <item name="unit_01" type="462c0819:PsiDirectoryNode" />
-              <item name="T4_data_structures_dictionaries" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pos" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pos" type="462c0819:PsiDirectoryNode" />
-              <item name="01_programming_for_data_science" type="462c0819:PsiDirectoryNode" />
-              <item name="unit_01" type="462c0819:PsiDirectoryNode" />
-              <item name="T5_data_strutures_sets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pos" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pos" type="462c0819:PsiDirectoryNode" />
-              <item name="01_programming_for_data_science" type="462c0819:PsiDirectoryNode" />
-              <item name="unit_01" type="462c0819:PsiDirectoryNode" />
-              <item name="T6_activity" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/01_programming_for_data_science/unit_01/T3_tuples" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/01_programming_for_data_science/unit_02/T2_strings" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\dev\workspace\pos\01_programming_for_data_science\unit_02\T1_data_types_and_variables" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\dev\workspace\pos\01_programming_for_data_science\unit_02\T2_strings" />
+      <recent name="C:\dev\workspace\pos\01_programming_for_data_science\unit_02\T1_data_types_and_variables" />
       <recent name="$PROJECT_DIR$/01_programming_for_data_science/unit_01/T3_tuples" />
       <recent name="$PROJECT_DIR$/01_programming_for_data_science/unit_01/T5_data_strutures_sets" />
       <recent name="$PROJECT_DIR$/01_programming_for_data_science/unit_01/T4_data_structures_dictionaries" />
-      <recent name="$PROJECT_DIR$/12_image_analysis_and_computer_vision" />
-      <recent name="$PROJECT_DIR$/11_natural_language_processing" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -225,125 +86,25 @@
     </task>
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="-1" width="1920" height="1080" extended-state="6" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17554033" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.26824033" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/02_general_statistics/file.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_data_visualization/file.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05_statistical_models/file.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06_data_preparation_for_machine_learning/file.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07_neural_networks_and_deep_learning/file.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/09_dataops_and_implementation_of_machine_learning/file.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10_special_topics_machine_learning/file.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/11_natural_language_processing/file.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/12_image_analysis_and_computer_vision/file.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08_retrivie_web_social_networks/file.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_machine_learning/file.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01_programming_for_data_science/unit_01/T1_python_basics/file.txt" />
-    <entry file="file://$PROJECT_DIR$/01_programming_for_data_science/unit_01/T3_tuples/tuples.ipynb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="373" column="27" lean-forward="true" selection-start-line="373" selection-start-column="27" selection-end-line="373" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01_programming_for_data_science/unit_01/T5_data_strutures_sets/sets.ipynb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01_programming_for_data_science/unit_01/T1_python_basics/01_T1_main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="54" column="37" selection-start-line="54" selection-start-column="37" selection-end-line="54" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01_programming_for_data_science/unit_01/T3_tuples/01_T3_main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1395">
-          <caret line="93" column="18" selection-start-line="93" selection-start-column="18" selection-end-line="93" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01_programming_for_data_science/unit_01/T4_data_structures_dictionaries/dict.ipynb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="23" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01_programming_for_data_science/unit_01/T5_data_strutures_sets/01_T5_main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="160" column="13" lean-forward="true" selection-start-line="160" selection-start-column="13" selection-end-line="160" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01_programming_for_data_science/unit_01/T4_data_structures_dictionaries/01_T4_main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="84" lean-forward="true" selection-start-line="84" selection-end-line="84" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01_programming_for_data_science/unit_01/T2_list/01_T2_main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="97" column="17" lean-forward="true" selection-start-line="97" selection-start-column="17" selection-end-line="97" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
+  <component name="WindowStateProjectService">
+    <state x="218" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600194480391">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="218" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1600194480391" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1600175721306">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1600175721306" />
   </component>
 </project>
