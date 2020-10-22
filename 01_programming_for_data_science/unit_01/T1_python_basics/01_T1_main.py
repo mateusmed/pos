@@ -3,7 +3,7 @@
 
 
 # video 2 - identificadores (variaveis)
-# - exemplos bem simples dos padrão de variavel
+# - exemplos bem simples dos padrões de variavel
 # no PEP8 - Guido van Rossum sugere que nomes de variaveis
 # deve ter apenas letra minúsculas e utilizar e undescore como separador
 
