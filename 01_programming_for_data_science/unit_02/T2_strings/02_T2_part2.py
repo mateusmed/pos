@@ -136,22 +136,65 @@ def isprintable_example():
     s2.isprintable()
 
 
+def isspace_example():
+    s1 = "A B"
+    value = s1[0].isspace()
+    print(value)
+
+
+def istitle_example():
+    titulo = "A Linguagem Python"
+    value = titulo.istitle()
+    print(value)
+
+    titulo = "A linguagem Python"
+    value = titulo.istitle()
+    print(value)
+
+
+def pares():
+    pares = list(range(2, 101, 2))
+    print(pares)
+
+
+def bissexto():
+    # value = [ano for ano in range(1900, 2021, 4) if (ano % 400 == 0) or (ano % 4 == 0 and ano % 100 != 0)]
+
+    # value = list(filter(lambda ano: (ano % 400 == 0) or (ano % 4 == 0 and ano % 100 != 0), range(1900, 2021, 4)))
+    # print(value)
+
+    value = list(range(1900, 2021, 4))
+    print(value)
+
+def test():
+    # numeros = [n for n in range(1, 16)]
+    # value = filter(lambda x: x % 3 == 0, numeros)
+    # print(value)
+
+    bissextos = [ano for ano in range(1900, 2021, 4) if (ano % 400 == 0) or (ano % 4 == 0 and ano % 100 != 0)]
+    print(bissextos)
+
 def main():
     captilize_example()
 
     # case_fold_example == lower_example
-    case_fold_example()
-    lower_example()
-    upper_example()
-    center_example()
-    count_example()
-    encode_example()
-    endswith_example()
-    expand_tabs_example()
-    example_find()
-    example_r_find()
-    example_index()
-    format_example()
-    indentification_example()
+    # case_fold_example()
+    # lower_example()
+    # upper_example()
+    # center_example()
+    # count_example()
+    # encode_example()
+    # endswith_example()
+    # expand_tabs_example()
+    # example_find()
+    # example_r_find()
+    # example_index()
+    # format_example()
+    # indentification_example()
+    # isspace_example()
+    # istitle_example()
+    #pares()
+    # bissexto()
+    test()
 
 main()
