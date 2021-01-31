@@ -20,19 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7191de4-4c94-4ac5-a2c6-0462bdee1864" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/01_programming_for_data_science/unit_02/T3_if/02_T3_main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_programming_for_data_science/unit_02/T4_while/while.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_programming_for_data_science/unit_02/T5_for/for.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_programming_for_data_science/unit_02/T6_functions/functions.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_programming_for_data_science/unit_02/T6_functions/lambda.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_programming_for_data_science/unit_03/T1_numpy_ndarrays/arrays_numPy.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_programming_for_data_science/unit_03/T1_numpy_ndarrays/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_programming_for_data_science/unit_03/T1_numpy_ndarrays/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_programming_for_data_science/unit_03/T2_properties_ndarrays/03_T2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_programming_for_data_science/unit_03/T2_properties_ndarrays/properties_ndarrays.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_programming_for_data_science/unit_02/T3_if/file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/01_programming_for_data_science/unit_02/T4_while/02_T4_main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_programming_for_data_science/unit_02/T4_while/file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/01_programming_for_data_science/unit_02/T5_for/02_T5_main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_programming_for_data_science/unit_02/T5_for/file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/01_programming_for_data_science/unit_02/T6_functions/02_T6_main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_programming_for_data_science/unit_03/T1_numpy_ndarrays/file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/01_programming_for_data_science/unit_03/T1_numpy_ndarrays/03_T1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_programming_for_data_science/unit_02/T6_functions/02_T6_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_programming_for_data_science/unit_02/T6_functions/02_T6_main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,16 +57,16 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/01_programming_for_data_science/unit_03/T1_numpy_ndarrays" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/01_programming_for_data_science/unit_03/T2_properties_ndarrays" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\dev\workspaceMateus\pos\01_programming_for_data_science\unit_03\T2_properties_ndarrays" />
       <recent name="C:\dev\workspaceMateus\pos\01_programming_for_data_science\unit_03\T1_numpy_ndarrays" />
       <recent name="C:\dev\workspaceMateus\pos\01_programming_for_data_science\unit_02\T6_functions" />
       <recent name="C:\dev\workspaceMateus\pos\01_programming_for_data_science\unit_03" />
       <recent name="C:\dev\workspaceMateus\pos\01_programming_for_data_science\unit_02\T5_for" />
-      <recent name="C:\dev\workspaceMateus\pos\01_programming_for_data_science\unit_02\T4_while" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\dev\workspaceMateus\pos\01_programming_for_data_science\unit_02\T6_functions" />
