@@ -20,8 +20,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7191de4-4c94-4ac5-a2c6-0462bdee1864" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/01_programming_for_data_science/unit_02/T3_if/02_T3_main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_programming_for_data_science/unit_02/T4_while/while.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_programming_for_data_science/unit_02/T5_for/for.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_programming_for_data_science/unit_02/T6_functions/functions.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_programming_for_data_science/unit_02/T6_functions/lambda.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_programming_for_data_science/unit_03/T1_numpy_ndarrays/arrays_numPy.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_programming_for_data_science/unit_03/T1_numpy_ndarrays/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_programming_for_data_science/unit_03/T1_numpy_ndarrays/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_programming_for_data_science/unit_02/T2_strings/02_T2_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_programming_for_data_science/unit_02/T2_strings/02_T2_main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_programming_for_data_science/unit_02/T3_if/file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/01_programming_for_data_science/unit_02/T4_while/02_T4_main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_programming_for_data_science/unit_02/T4_while/file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/01_programming_for_data_science/unit_02/T5_for/02_T5_main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_programming_for_data_science/unit_02/T5_for/file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/01_programming_for_data_science/unit_02/T6_functions/02_T6_main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_programming_for_data_science/unit_03/T1_numpy_ndarrays/file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/01_programming_for_data_science/unit_03/T1_numpy_ndarrays/03_T1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,20 +64,22 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/01_programming_for_data_science/unit_03/T1_numpy_ndarrays" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\dev\workspace\pos\01_programming_for_data_science\unit_02\T1_data_types_and_variables" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\dev\workspace\pos\01_programming_for_data_science\unit_02\T2_strings" />
+      <recent name="C:\dev\workspaceMateus\pos\01_programming_for_data_science\unit_03\T1_numpy_ndarrays" />
+      <recent name="C:\dev\workspaceMateus\pos\01_programming_for_data_science\unit_02\T6_functions" />
+      <recent name="C:\dev\workspaceMateus\pos\01_programming_for_data_science\unit_03" />
+      <recent name="C:\dev\workspaceMateus\pos\01_programming_for_data_science\unit_02\T5_for" />
+      <recent name="C:\dev\workspaceMateus\pos\01_programming_for_data_science\unit_02\T4_while" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\dev\workspaceMateus\pos\01_programming_for_data_science\unit_02\T6_functions" />
       <recent name="C:\dev\workspace\pos\01_programming_for_data_science\unit_02\T1_data_types_and_variables" />
-      <recent name="$PROJECT_DIR$/01_programming_for_data_science/unit_01/T3_tuples" />
-      <recent name="$PROJECT_DIR$/01_programming_for_data_science/unit_01/T5_data_strutures_sets" />
-      <recent name="$PROJECT_DIR$/01_programming_for_data_science/unit_01/T4_data_structures_dictionaries" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -94,16 +107,5 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="218" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600194480391">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="218" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1600194480391" />
-    <state x="369" y="115" key="SettingsEditor" timestamp="1603715238414">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="369" y="115" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1603715238414" />
-    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1600175721306" />
   </component>
 </project>
