@@ -20,10 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7191de4-4c94-4ac5-a2c6-0462bdee1864" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/01_programming_for_data_science/unit_03/T2_properties_ndarrays/03_T2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_programming_for_data_science/unit_03/T2_properties_ndarrays/properties_ndarrays.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_programming_for_data_science/unit_03/T3_indexing_slicing/file.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_programming_for_data_science/unit_02/T6_functions/02_T6_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_programming_for_data_science/unit_02/T6_functions/02_T6_main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_programming_for_data_science/unit_03/T3indexing_slicing/file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/01_programming_for_data_science/unit_03/T3_indexing_slicing/03_T3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,18 +56,19 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/01_programming_for_data_science/unit_03/T2_properties_ndarrays" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/01_programming_for_data_science/unit_03/T3_indexing_slicing" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\dev\workspaceMateus\pos\01_programming_for_data_science\unit_03\T3_indexing_slicing" />
       <recent name="C:\dev\workspaceMateus\pos\01_programming_for_data_science\unit_03\T2_properties_ndarrays" />
       <recent name="C:\dev\workspaceMateus\pos\01_programming_for_data_science\unit_03\T1_numpy_ndarrays" />
       <recent name="C:\dev\workspaceMateus\pos\01_programming_for_data_science\unit_02\T6_functions" />
       <recent name="C:\dev\workspaceMateus\pos\01_programming_for_data_science\unit_03" />
-      <recent name="C:\dev\workspaceMateus\pos\01_programming_for_data_science\unit_02\T5_for" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\dev\workspaceMateus\pos\01_programming_for_data_science\unit_03\T3indexing_slicing" />
       <recent name="C:\dev\workspaceMateus\pos\01_programming_for_data_science\unit_02\T6_functions" />
       <recent name="C:\dev\workspace\pos\01_programming_for_data_science\unit_02\T1_data_types_and_variables" />
     </key>
