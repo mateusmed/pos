@@ -1,0 +1,115 @@
+introdução
+
+
+================
+
+Tipos de Dados:
+
+
+Qualitativos ( categóricos )
+    consistem em atributos, qualidades, caracteristicas
+
+    Nominais:
+        Representam nomes, rótulos ou categorias que não tem orem ou hierarquia.
+
+    Ordinais:
+        Mantêm uma relação de ordem do menor par ao maior
+
+
+
+Quantitativos ( numéricos )
+    consistem em mediddas ou contagens numéricas
+
+    Discretos:
+        Resultam de um conjunto finito ou enumerável de valores possíveis ( contagens )
+
+    Contínuo:
+        Resultam em um número infinito de valores possíveis ( mensurações )
+
+=================
+
+
+Medidas de tendência central:
+
+    Calculo de média
+        padrão como toods conhecem
+
+    Mediana -> valor que divide a amostra em partes iguais
+        para calcular mediana é necessário ORDENAR os dados para pegar o valor do meio
+
+        n = 18
+
+        parte 1 ->  (n / 2) = 9no elemento
+
+        parte 2 -> (n + 2) / 2 = 10mo elemento
+
+        depois se calcula a média deles:
+
+            mediana = (parte1 + parte2) / 2
+
+    Moda (trabalha com ideia de frequencia)
+
+        1 | 1 | 2 | 3 | 4 | 5 -> moda = 1
+        1 | 1 | 2 | 2 | 4 | 4 -> moda = 1 e 2
+        1 | 1 | 1 | 2 | 2 | 5 -> moda = 1
+        1 | 2 | 3 | 4 | 5 | 6 -> moda = amodal
+
+    exemplo:
+
+        1 | 2 | 3 | 4 | 5
+
+          Média: 3
+          Mediana: 3
+
+        Se média É proxima a mediana -> ausencia de valor discrepante
+
+        1 | 2 | 3 | 4 | 50 <- outlier
+
+          Média: 12
+          Mediana: 3
+
+        Se a média NÃO é próxima a mediana -> presença de valor discrepante
+
+==================
+
+Medidas de posição relativa:
+    Objetivo: dividir a amostra em determinadas parcelas.
+
+    Quartis, Decis e percentis:
+
+        quartis:
+            dividem as amostras em 4 partes iguais
+
+        decil:
+            divide as amostrasm em 10 partes iguais
+
+        percentis (geralmente é usada, pois englabas as outras:
+            - divide as amostras em 100 partes iguais
+            - calculo de percentil precisa que os dados estejam ordenados
+            - k percentual que deseja obter
+            - n tamanho da amostra
+
+            L = (k / 100) n
+
+
+        Calcule o 3ro quartil (3Q = 75%)
+
+        amostra:
+
+             71, 73, 73, 74, 74, 75
+             76, 77, 77, 79, 81, 83
+
+        calculo:
+
+            L = (75 / 100 ) 12 = 9na posição
+
+            9na = 77
+            10ma = 79
+
+            (77 + 79) / 2 = 78
+
+
+    Escore Z
+
+        z = ( x - media ) / s
+
