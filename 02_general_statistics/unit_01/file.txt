@@ -113,3 +113,84 @@ Medidas de posição relativa:
 
         z = ( x - media ) / s
 
+
+
+=================
+
+
+Medidas de dispersão:
+
+    10      20      30      40      50
+    média: 30
+    mediana: 30
+
+    30      30      30      30      30
+    média: 30
+    mediana: 30
+
+
+    Amostras não iguais, variabilidades diferentes
+
+    média e mediana, são medidas de tendencia central
+
+
+    Medidas de variabilidade:
+
+        Amplitude = distancia entre os extremos de uma amostra
+
+        variancia:
+
+        desvio padrão:
+            - calcular primeiro a variancia
+            - pra calcular variancia é necessário a média
+
+        - coeficiente de variação (geralmente utilizado para verificar o desvio padrão em relação a dados diferentes)
+
+
+
+
+=================
+
+Gráficos:
+
+    - setores(pizza) - variaveis quantitativas e categoricas
+
+    - barras(colunas) - valores inteiros
+        |_ plano artesiano
+        |_ comporta varias categorias
+
+    - linhas
+        |_ periodo constante de coleta de informação
+
+    - histograma (barras grudadas)
+        |_ variaveis contitativas dividida em intervalos
+
+    - pontos ( não possui eixo Y )
+        |_ cada ponto representa uma unidade da amostra
+
+    - ramo e folhas (stem-and-leaf) -> complicado de ler / pouco usado
+        |_ variaveis quantitativas
+
+    - boxplot (baseado em quartis)
+
+    - tabelas
+        |_ tabelas de contingencias (tabelas cruzadas) -> muito utilizadas
+
+
+================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
