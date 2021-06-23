@@ -20,24 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7191de4-4c94-4ac5-a2c6-0462bdee1864" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/02_general_statistics/unit_01/2_medidas/2 - Apresentação simples_Medidas de Posição Relativa.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_general_statistics/unit_01/2_medidas/3 - Medidas descritivas.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_general_statistics/unit_01/3_graficos/Gráficos.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_general_statistics/unit_01/3_graficos/comentario_1_boxplot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_general_statistics/unit_01/4_tabelas/Tabelas.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_general_statistics/unit_02/1_probabilidade/Introdução à Probabilidade.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_general_statistics/unit_02/2_variaveis_aleatorias/Variáveis aleatórias.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_general_statistics/unit_02/3_modelos_probabilisticos/1_variaveis_aletorias_discretas/3_Modelos probabilísticos v a discretas.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_general_statistics/unit_02/3_modelos_probabilisticos/1_variaveis_aletorias_discretas/comentario_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_general_statistics/unit_02/3_modelos_probabilisticos/1_variaveis_aletorias_discretas/comentario_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_general_statistics/unit_02/3_modelos_probabilisticos/1_variaveis_aletorias_discretas/comentario_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_general_statistics/unit_02/3_modelos_probabilisticos/2_variaveis_aletoatorias_continuas/Modelos probabilísticos v a contínuas.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_general_statistics/unit_02/3_modelos_probabilisticos/Exercícios Resolvidos_R e Excel.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_general_statistics/unit_02/3_modelos_probabilisticos/Resumo das funções probabilísticas_Utilizando o Excel e o R.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_general_statistics/unit_02/file.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_general_statistics/unit_01/Introdução à Estatística.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/02_general_statistics/unit_01/1_introducao/1 - Introdução à Estatística.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_general_statistics/unit_01/file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/02_general_statistics/unit_01/file.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +86,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597168621952</updated>
-      <workItem from="1623769106059" duration="1796000" />
+      <workItem from="1623769106059" duration="1797000" />
+      <workItem from="1623848963626" duration="1189000" />
+      <workItem from="1624032032756" duration="591000" />
     </task>
     <servers />
   </component>
