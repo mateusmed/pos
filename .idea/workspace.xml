@@ -20,13 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7191de4-4c94-4ac5-a2c6-0462bdee1864" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/03_data_visualization/unit_01/Data Visualization Techniques  From Basics to Big Data with SAS Visual Analytics-1.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_data_visualization/unit_01/Unidade I - OLAP - 1ª parte.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_data_visualization/unit_01/Unidade I - OLAP - 2ª parte.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_data_visualization/unit_01/Unidade I - OLAP e DRILL.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_data_visualization/unit_01/Unidade I - Quadrante Gartner.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_data_visualization/unit_01/Unidade I - Visualização de Dados.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_data_visualization/unit_01/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_data_visualization/unit_02/Que gráfico utilizar.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_data_visualization/unit_02/Unidade II - Data Storytelling - Gráficos.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_data_visualization/unit_02/Whitepaper_Datashader_digital.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_data_visualization/unit_02/visualanalysisbestpractices_ptb.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_data_visualization/unit_02/whitepaper_datastorytelling.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_data_visualization/unit_03/Envio comprovante a Tableau.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_data_visualization/unit_03/Unidade III - Self Service-1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_data_visualization/unit_03/ssbi-jul12-11-1.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,17 +63,17 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/03_data_visualization/unit_01" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/03_data_visualization/unit_03" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\dev\workspaceMateus\pos\03_data_visualization\unit_03" />
+      <recent name="C:\dev\workspaceMateus\pos\03_data_visualization\unit_02" />
       <recent name="C:\dev\workspaceMateus\pos\03_data_visualization\unit_01" />
       <recent name="C:\dev\workspaceMateus\pos\02_general_statistics\unit_02\3_modelos_probabilisticos\2_variaveis_aletoatorias_continuas" />
       <recent name="C:\dev\workspaceMateus\pos\02_general_statistics\unit_02\3_modelos_probabilisticos\1_variaveis_aletorias_discretas" />
-      <recent name="C:\dev\workspaceMateus\pos\02_general_statistics\unit_02\2_variaveis_aleatorias" />
-      <recent name="C:\dev\workspaceMateus\pos\02_general_statistics\unit_02" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\dev\workspaceMateus\pos\02_general_statistics\unit_02\3_modelos_probabilisticos\1_variaveis_aletorias_discretas" />
